@@ -1,9 +1,15 @@
 body {
-    background-color:#1C1C1C;
+    background-color:white;
+}
+
+nav li{
+  font-size: 30px;
+  display: inline-block;
+  margin-right: 10%
 }
 
 .texto-principal {
-    margin-right: 20%; 
+    margin-right: 20%;
 }
 
 h1 {
@@ -30,7 +36,7 @@ p {
 	text-decoration: underline;
 }
 .texto-principal {
-    margin-right: 20%; 
+    margin-right: 20%;
 }
 
 h1 {
@@ -55,4 +61,10 @@ p {
 .itens {
 	color: blue;
 	text-decoration: underline;
+}
+
+.programacao{
+  text-align: center;
+  font-size: 25px;
+  color: yellow
 }
