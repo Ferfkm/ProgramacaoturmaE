@@ -1,13 +1,23 @@
 body {
     background-color:white;
 }
+.logo{
+  margin-left: 15%;
+  margin-top: 5%;
+  padding: 10%
+}
+header{
+  border: 10px solid red;
+}
 
 nav li{
   font-size: 30px;
   display: inline-block;
   margin-right: 10%
 }
-
+.menu{
+  background-color: black;
+}
 .texto-principal {
     margin-right: 20%;
 }
